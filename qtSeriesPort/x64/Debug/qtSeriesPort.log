@@ -1,0 +1,40 @@
+﻿  Moc'ing mainwindow.h...
+  Moc'ing mtdlg.h...
+  Moc'ing qabout.h...
+  Moc'ing qcustomplot.h...
+  Moc'ing thread.h...
+  Moc'ing wzsd.h...
+  Uic'ing mainwindow.ui...
+C:\Users\admin\Desktop\qtSeriesPort\qtSeriesPort\mainwindow.ui : warning : The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget1'.
+C:\Users\admin\Desktop\qtSeriesPort\qtSeriesPort\mainwindow.ui : warning : The name 'layoutWidget' (QWidget) is already in use, defaulting to 'layoutWidget2'.
+  Uic'ing mtdlg.ui...
+  Uic'ing qabout.ui...
+  Uic'ing wzsd.ui...
+  Rcc'ing icon.qrc...
+  moc_mainwindow.cpp
+c:\users\admin\desktop\qtseriesport\qtseriesport\debug\../mainwindow.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  moc_mtdlg.cpp
+  moc_qabout.cpp
+  moc_qcustomplot.cpp
+  moc_thread.cpp
+  moc_wzsd.cpp
+  main.cpp
+c:\users\admin\desktop\qtseriesport\qtseriesport\mainwindow.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  mainwindow.cpp
+mainwindow.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\admin\desktop\qtseriesport\qtseriesport\mainwindow.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+mainwindow.cpp(231): warning C4995: 'UnknownBaud': name was marked as #pragma deprecated
+mainwindow.cpp(244): warning C4995: 'UnknownDataBits': name was marked as #pragma deprecated
+mainwindow.cpp(273): warning C4995: 'UnknownParity': name was marked as #pragma deprecated
+mainwindow.cpp(283): warning C4995: 'UnknownStopBits': name was marked as #pragma deprecated
+mainwindow.cpp(843): warning C4189: 'ok': local variable is initialized but not referenced
+mainwindow.cpp(1075): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  mtdlg.cpp
+  qabout.cpp
+qabout.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  qcustomplot.cpp
+  wzsd.cpp
+  Generating Code...
+  qrc_icon.cpp
+  qtSeriesPort.vcxproj -> C:\Users\admin\Desktop\qtSeriesPort\qtSeriesPort\debug\qtSeriesPort.exe
+  qtSeriesPort.vcxproj -> debug\qtSeriesPort.pdb (Full PDB)
